@@ -19,3 +19,5 @@ A basic console memory card game built in the console using C#. Great for beginn
 - Track tries/time
 - Track and Save Attemps or Score to a .txt file
 - Custom symbols
+### Bug
+- Infinite loop on incorrect RC input
